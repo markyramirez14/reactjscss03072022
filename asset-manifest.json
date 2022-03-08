@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjscss03072022/static/css/main.7de86beb.css",
+    "main.js": "/reactjscss03072022/static/js/main.1ad39130.js",
+    "static/js/787.165f98e0.chunk.js": "/reactjscss03072022/static/js/787.165f98e0.chunk.js",
+    "static/media/wfh.png": "/reactjscss03072022/static/media/wfh.c5e026f36ac2a9fa1e30.png",
+    "static/media/kebab.jpg": "/reactjscss03072022/static/media/kebab.863eb0ebb088c8c23c39.jpg",
+    "static/media/picture.jpg": "/reactjscss03072022/static/media/picture.878fed52d0be37ecf4fc.jpg",
+    "static/media/techies.png": "/reactjscss03072022/static/media/techies.fc5d55c3b850a12682e1.png",
+    "static/media/elden.jpg": "/reactjscss03072022/static/media/elden.a13a215e5853987cc3a0.jpg",
+    "static/media/ramen.jpg": "/reactjscss03072022/static/media/ramen.6f7c5a481a368dd5cc42.jpg",
+    "static/media/karaoke.jpg": "/reactjscss03072022/static/media/karaoke.96d11688223d961dea04.jpg",
+    "static/media/logo.svg": "/reactjscss03072022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactjscss03072022/index.html",
+    "main.7de86beb.css.map": "/reactjscss03072022/static/css/main.7de86beb.css.map",
+    "main.1ad39130.js.map": "/reactjscss03072022/static/js/main.1ad39130.js.map",
+    "787.165f98e0.chunk.js.map": "/reactjscss03072022/static/js/787.165f98e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de86beb.css",
+    "static/js/main.1ad39130.js"
+  ]
+}
